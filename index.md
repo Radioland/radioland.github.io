@@ -12,15 +12,10 @@ September 17, 2014
 [radioland.github.io][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[RadiolandGame@gmail.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
-
-**Releases:**  
-[exampleproject][example_project]
+[twitter.com/RadiolandGame][twitter]  
 
 
 ## Description
@@ -129,14 +124,9 @@ Another of these. See [here](https://link)
 
 [homepage]: http://radioland.github.io "Radioland"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:RadiolandGame@gmail.com
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
-[facebook]: https://facebook.com/companyname
-[skype]: callto:companyskypename
+[twitter]: https://twitter.com/RadiolandGame
 
-<!--- Projects  -->
-
-[example_project]: projects/exampleproject/
