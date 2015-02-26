@@ -3,13 +3,13 @@
 ## Factsheet
 
 **Developer:**  
-Company Name
+SNABB TM
 
 **Founding date:**  
-January 1, 2015
+September 17, 2014
 
 **Website:**  
-[companydomain.com][homepage]
+[radioland.github.io][homepage]
 
 **Press / Business contact:**  
 [press-contact@company.com][contact]
@@ -22,17 +22,12 @@ January 1, 2015
 **Releases:**  
 [exampleproject][example_project]
 
-**Address:**  
-Line 1  
-Line 2  
-Line 3
-
-**Phone:**  
-+00 (1) 22 33 44 55
 
 ## Description
 
-Stuff about the studio. Talk about yourselves in the third person!
+Radioland is a single player 3D third-person puzzle platformer set on a chain of floating islands. The player controls Gunther as he explores four season-themed levels. As the player navigates through jumping challenges, they search for and collect audio logs. These audio logs reveal snippets of four narratives each focusing on communication.
+
+This game was the result of three months of work in Experimental Game Design with continued development in the spring of 2015. We used Unity3D with C#.
 
 ## History
 
@@ -44,9 +39,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Projects
-
-* [exampleproject][example_project]
 
 ## Videos
 
@@ -75,6 +67,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
+<!--
 ## Awards & Recognition
 
 > * "Winner, XX awards." - *game name, December 13, 2013*
@@ -97,20 +90,27 @@ Link to your company, or some affiliate. Located [here](https://link)
 
 **Company Link #2**  
 Another of these. See [here](https://link)
+-->
 
 ## Team & Repeating Collaborator
 
-**Probably the founder's name goes here**  
-[Founder](https://link)
+**Scott Todd**
+[Programmer](http://scotttodd.github.io/)
 
-**Another person's name**  
-[developer maybe](https://link)
+**Neale LaPlante**  
+[Writer](http://diokatsu.wix.com/portfolio/)
 
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
+**Annie Sardelis**  
+[Artist](http://asardelis3.wix.com/portfolio/)
 
-**A fourth person**  
-[music, sound?](https://link)
+**Brian Tam**  
+[Technical Artist](http://xinoph.github.io/)
+
+**Tim Terrezza**  
+[Programmer](https://github.com/timmyterrezza/)
+
+**Matt Wellins**
+[Composer](http://mattwellins.com/)
 
 ## Contact
 
@@ -124,12 +124,12 @@ Another of these. See [here](https://link)
 [facebook.com/companyname][facebook]
 
 **Web**  
-[companydomain.com][homepage]
+[http://radioland.github.io][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://radioland.github.io "Radioland"
 
 [contact]: mailto:press-contact@company.com
 
