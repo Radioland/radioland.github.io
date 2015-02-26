@@ -108,13 +108,10 @@ Another of these. See [here](https://link)
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[RadiolandGame@gmail.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
-
-** Facebook**  
-[facebook.com/companyname][facebook]
+[twitter.com/RadiolandGame][twitter]
 
 **Web**  
 [http://radioland.github.io][homepage]
