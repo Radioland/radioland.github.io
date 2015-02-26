@@ -29,6 +29,7 @@ Radioland is a single player 3D third-person puzzle platformer set on a chain of
 
 This game was the result of three months of work in Experimental Game Design with continued development in the spring of 2015. We used Unity3D with C#.
 
+<!--
 ## History
 
 ### Beginning
@@ -38,6 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Second subhed if you want it!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+-->
 
 
 ## Videos
@@ -88,7 +90,7 @@ Link to your company, or some affiliate. Located [here](https://link)
 Another of these. See [here](https://link)
 -->
 
-## Team & Repeating Collaborator
+## Team
 
 **Scott Todd**  
 [Programmer](http://scotttodd.github.io/)
