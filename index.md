@@ -1,9 +1,9 @@
-# ![Company Name](assets/images/header.png)
+# ![SNAB TM](assets/images/header.png)
 
 ## Factsheet
 
 **Developer:**  
-SNABB TM
+SNAB TM
 
 **Founding date:**  
 September 17, 2014
@@ -42,14 +42,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Videos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
-
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
-This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+<video width="100%" controls="">
+    <source src="/assets/video/RadiolandTrailer.mp4" type="video/mp4" />
+    <source src="/assets/video/RadiolandTrailer.webm" type="video/webm" />
+</video>
 
 ## Images
 
@@ -94,7 +90,7 @@ Another of these. See [here](https://link)
 
 ## Team & Repeating Collaborator
 
-**Scott Todd**
+**Scott Todd**  
 [Programmer](http://scotttodd.github.io/)
 
 **Neale LaPlante**  
@@ -109,7 +105,7 @@ Another of these. See [here](https://link)
 **Tim Terrezza**  
 [Programmer](https://github.com/timmyterrezza/)
 
-**Matt Wellins**
+**Matt Wellins**  
 [Composer](http://mattwellins.com/)
 
 ## Contact
