@@ -127,6 +127,7 @@ function configJSON()
     //titleAndHeaderLinks(json['title'], json['largeLinks'], json['projectLinks'])
     bootstrapElements(json['layout'])
 
+    /*
     if ($.isEmptyObject(json['googleAnalytics']) || json['googleAnalytics'].length === 0) { return }
     $('head').append('\
     <script>\
@@ -135,6 +136,7 @@ function configJSON()
         g.src=("https:""==location.protocol?""//ssl":""//www")+"".google-analytics.com/ga.js";\
         s.parentNode.insertBefore(g,s)}(document,"script"));\
     </script>')
+    */
   })
 }
 
