@@ -163,6 +163,10 @@ h6, .h6 {
 /* ================================================== */
 /* Content */
 
+.content > h1 {
+  text-align: center;
+}
+
 .content > h1 img {
   width: 100%;
   max-width: 512px;
