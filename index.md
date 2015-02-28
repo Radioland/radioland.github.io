@@ -39,10 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Videos
 
-<video width="100%" controls="" poster="/assets/video/RadiolandGDCTrailer-preview.png">
-    <source src="/assets/video/RadiolandGDCTrailer.mp4" type="video/mp4" />
-    <source src="/assets/video/RadiolandGDCTrailer.webm" type="video/webm" />
-</video>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/24NCiDUIGXA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
