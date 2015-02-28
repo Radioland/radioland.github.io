@@ -40,8 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Videos
 
 <video width="100%" controls="">
-    <source src="/assets/video/RadiolandTrailer.mp4" type="video/mp4" />
-    <source src="/assets/video/RadiolandTrailer.webm" type="video/webm" />
+    <source src="/assets/video/RadiolandGDCTrailer.mp4" type="video/mp4" />
+    <source src="/assets/video/RadiolandGDCTrailer.webm" type="video/webm" />
 </video>
 
 ## Images
