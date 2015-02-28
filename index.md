@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Videos
 
-<video width="100%" controls="">
+<video width="100%" controls="" poster="/assets/video/poster.png">
     <source src="/assets/video/RadiolandGDCTrailer.mp4" type="video/mp4" />
     <source src="/assets/video/RadiolandGDCTrailer.webm" type="video/webm" />
 </video>
