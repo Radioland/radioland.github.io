@@ -20,7 +20,7 @@ September 17, 2014
 
 ## Description
 
-Radioland is a single player 3D third-person puzzle platformer set on a chain of floating islands. The player controls Gunther as he explores four season-themed levels. As the player navigates through jumping challenges, they search for and collect audio logs. These audio logs reveal snippets of four narratives each focusing on communication.
+Join Gunther in Radioland, where you guide our lovable hero in helping the critters of Radioland get the light and life back from the darkness that has surrounded them. In this 3D, puzzle platformer, use three superpowers in order to traverse trecherous environments, solve puzzles, and bring the radio back to Radioland. Can you dispel the black fog and save Radioland?
 
 This game was the result of three months of work in Experimental Game Design with continued development in the spring of 2015. We used Unity3D with C#.
 
