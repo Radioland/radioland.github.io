@@ -20,9 +20,9 @@ September 17, 2014
 
 ## Description
 
-Join Gunther in Radioland, where you guide our lovable hero in helping the critters of Radioland get the light and life back from the darkness that has surrounded them. In this 3D, puzzle platformer, use three superpowers in order to traverse trecherous environments, solve puzzles, and bring the radio back to Radioland. Can you dispel the black fog and save Radioland?
+Join Gunther in Radioland, where you guide our lovable hero in helping the critters of Radioland get life back from the silence that has surrounded them. In this 3D puzzle platformer, use the power of radio to traverse colorful environments, solve puzzles, and collect crazy outfits. Turn on the radio towers, move the environment, complete the levels and guide Radioland back to a brighter future!
 
-This game was the result of three months of work in Experimental Game Design with continued development in the spring of 2015. We used Unity3D with C#.
+This game was the result of three months of work in Experimental Game Design with continued development in the spring of 2015. We used Unity3D with C#, Maya, and Photoshop. We stream live internet radio using a third-party DLL called BASS from Un4seen Developments. Notable programming feats include audio spectrum visualization, spline editor tools supporting mesh generation, a triggered event/effects system, editor scripting, and physics using kinematic rigidbodies. Our art style is achieved through ShaderLab shaders which we wrote for tri-planar texture mapping and vertex colored PBR.
 
 <!--
 ## History
@@ -43,14 +43,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Images
 
-download all screenshots & photos as ** [.zip (6.74 MB)](assets/images/images.zip "Images zip") **
+download all screenshots & photos as ** [.zip (6.40 MB)](assets/images/images.zip "Images zip") **
 
-[![Welcome to Radioland](assets/images/Radioland-hello.png)](assets/images/Radioland-hello.png)
-[![Dancing with Critters](assets/images/Radioland-dance.png)](assets/images/Radioland-dance.png)
-[![Low Gravity Power](assets/images/Radioland-lowGravity.png)](assets/images/Radioland-lowGravity.png)
-[![High Jump power](assets/images/Radioland-highJump.png)](assets/images/Radioland-highJump.png)
-[![Playing in the Leaves](assets/images/Radioland-leaves.png)](assets/images/Radioland-leaves.png)
-[![At the Radio Tower](assets/images/Radioland-radioTower.png)](assets/images/Radioland-radioTower.png)
+[![Gunther dancing in Radioland](assets/images/Radioland-01-Dance.png)](assets/images/Radioland-01-Dance.png)
+[![Gunther exploring Radioland's changing world](assets/images/Radioland-02-Exploring.png)](assets/images/Radioland-02-Exploring.png)
+[![Gunther finds a radio tower to bring back radio](assets/images/Radioland-03-findingARadioTower.png)](assets/images/Radioland-03-findingARadioTower.png)
+[![Gunther talks to a critter](assets/images/Radioland-04-TalkingToCritter.png)](assets/images/Radioland-04-TalkingToCritter.png)
+[![Gunther attempts some scary jumps](assets/images/Radioland-05-ScaryJumps.png)](assets/images/Radioland-05-ScaryJumps.png)
+[![Gunther dances with baby birds in front of a tall tower](assets/images/Radioland-06-birdsAndTower.png)](assets/images/Radioland-06-birdsAndTower.png)
+[![Gunther finds a flower hat. Doesn't he look great?](assets/images/Radioland-07-flowerHat.png)](assets/images/Radioland-07-flowerHat.png)
+[![The world responds to music](assets/images/Radioland-08-audioVisualizers.png)](assets/images/Radioland-08-audioVisualizers.png)
 
 ## Logo & Icon
 
