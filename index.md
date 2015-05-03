@@ -17,12 +17,18 @@ September 17, 2014
 **Social:**  
 [twitter.com/RadiolandGame][twitter]  
 
+**Download Link:**  
+[https://drive.google.com/file/d/0B39TY8FLCiYDVnI2QVAtUU1wOHM/view?usp=sharing][download]  
+
 
 ## Description
 
 Join Gunther in Radioland, where you guide our lovable hero in helping the critters of Radioland get life back from the silence that has surrounded them. In this 3D puzzle platformer, use the power of radio to traverse colorful environments, solve puzzles, and collect crazy outfits. Turn on the radio towers, move the environment, complete the levels and guide Radioland back to a brighter future!
 
 This game was the result of three months of work in Experimental Game Design with continued development in the spring of 2015. We used Unity3D with C#, Maya, and Photoshop. We stream live internet radio using a third-party DLL called BASS from Un4seen Developments. Notable programming feats include audio spectrum visualization, spline editor tools supporting mesh generation, a triggered event/effects system, editor scripting, and physics using kinematic rigidbodies. Our art style is achieved through ShaderLab shaders which we wrote for tri-planar texture mapping and vertex colored PBR.
+
+
+[Download the GameFest build here!](https://drive.google.com/file/d/0B39TY8FLCiYDVnI2QVAtUU1wOHM/view?usp=sharing)
 
 <!--
 ## History
@@ -128,3 +134,4 @@ Another of these. See [here](https://link)
 
 [twitter]: https://twitter.com/RadiolandGame
 
+[download]: https://drive.google.com/file/d/0B39TY8FLCiYDVnI2QVAtUU1wOHM/view?usp=sharing
