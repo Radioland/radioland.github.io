@@ -61,12 +61,12 @@ download logo files as ** [.zip (408 KB)]( assets/images/logo.zip "Logo & Icon z
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-<!--
+
 ## Awards & Recognition
 
-> * "Winner, XX awards." - *game name, December 13, 2013*
-> * "Nominee, YY awards." - *game name, December 13, 2013*
+> * "Second Place in the 'Vicarious Visions Student Challenge' at [Rensselaer Polytechnic Institute's GameFest 2015](http://gamefest.rpi.edu/)" - *May 2, 2015*
 
+<!--
 ## Selected Articles
 
 > * "Quote quote quote."  
