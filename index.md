@@ -18,7 +18,7 @@ September 17, 2014
 [twitter.com/RadiolandGame][twitter]  
 
 **Download Link:**  
-[https://drive.google.com/file/d/0B39TY8FLCiYDVnI2QVAtUU1wOHM/view?usp=sharing][download]  
+[Link][download]  
 
 
 ## Description
