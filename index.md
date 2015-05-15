@@ -18,7 +18,7 @@ September 17, 2014
 [twitter.com/RadiolandGame][twitter]  
 
 **Download Link:**  
-[Link][download]  
+[Link for Windows][download]  
 
 
 ## Description
@@ -28,7 +28,7 @@ Join Gunther in Radioland, where you guide our lovable hero in helping the critt
 This game was the result of three months of work in Experimental Game Design with continued development in the spring of 2015. We used Unity3D with C#, Maya, and Photoshop. We stream live internet radio using a third-party DLL called BASS from Un4seen Developments. Notable programming feats include audio spectrum visualization, spline editor tools supporting mesh generation, a triggered event/effects system, editor scripting, and physics using kinematic rigidbodies. Our art style is achieved through ShaderLab shaders which we wrote for tri-planar texture mapping and vertex colored PBR.
 
 
-[Download the GameFest build here!](https://drive.google.com/file/d/0B39TY8FLCiYDVnI2QVAtUU1wOHM/view?usp=sharing)
+[Download the GameFest build here! (Windows)](https://drive.google.com/file/d/0B39TY8FLCiYDVnI2QVAtUU1wOHM/view?usp=sharing)
 
 <!--
 ## History
