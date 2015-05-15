@@ -49,7 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Images
 
+<!--
 download all screenshots & photos as ** [.zip (6.40 MB)](assets/images/images.zip "Images zip") **
+-->
 
 [![Gunther dancing in Radioland](assets/images/Radioland-01-Dance.png)](assets/images/Radioland-01-Dance.png)
 [![Gunther exploring Radioland's changing world](assets/images/Radioland-02-Exploring.png)](assets/images/Radioland-02-Exploring.png)
@@ -59,6 +61,8 @@ download all screenshots & photos as ** [.zip (6.40 MB)](assets/images/images.zi
 [![Gunther dances with baby birds in front of a tall tower](assets/images/Radioland-06-birdsAndTower.png)](assets/images/Radioland-06-birdsAndTower.png)
 [![Gunther finds a flower hat. Doesn't he look great?](assets/images/Radioland-07-flowerHat.png)](assets/images/Radioland-07-flowerHat.png)
 [![The world responds to music](assets/images/Radioland-08-audioVisualizers.png)](assets/images/Radioland-08-audioVisualizers.png)
+[![Level select menu featuring radio tuning mechanic](assets/images/Radioland-levelSelect.png)](assets/images/Radioland-levelSelect.png)
+[![Cosmetics menu showing off different unlockable outfits!](assets/images/Radioland-cosmetics.png)](assets/images/Radioland-cosmetics.png)
 
 ## Logo & Icon
 
